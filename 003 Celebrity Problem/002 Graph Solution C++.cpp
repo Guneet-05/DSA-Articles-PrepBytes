@@ -1,8 +1,6 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 
-//maximum 10 people in the party
-//N is the number of people present in the party
 int celebrity_solution(int mat[][4], int n) {
     
     int in[n];
