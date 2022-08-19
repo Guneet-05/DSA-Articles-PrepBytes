@@ -61,5 +61,3 @@ public class Main {
 		postOrderIterative(root);
 	}
 }
-
-// This code is contributed by Rishabh Mahrsee
