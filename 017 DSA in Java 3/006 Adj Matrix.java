@@ -35,7 +35,7 @@ public class Main {
         for(int i=0;i<matrix.length;i++) {
             for(int j=0;j<matrix[0].length;j++) {
                 if(matrix[i][j] != 0) {
-                    System.out.println("Source = " + i + " Destination = " + j + " Weight = " + matrix[i][j]);
+                    System.out.println("Source = " + i+1 + " Destination = " + j+1 + " Weight = " + matrix[i][j]);
                 }
             }
         }
