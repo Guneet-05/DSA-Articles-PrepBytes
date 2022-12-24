@@ -12,6 +12,10 @@ public class Main {
         //display the stack
         System.out.println("Stack: " + stk);
         
+        //pop() -> removes the element
+        int x = stk.pop();
+        System.out.println(x);
+        
         //top of the stack -> peek()
         System.out.println("The element at the top of the stack is: " + stk.peek());
         //size of the stack -> number of elements
